@@ -1,0 +1,14 @@
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Kate\Desktop\C# Advanced\1 cas\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Kate\Documents\GitHub\HW1\Homework\Homework\obj\Debug\Homework.pdb
